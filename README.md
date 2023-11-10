@@ -1,6 +1,6 @@
 # Stock_Trading_Web_app
 
-Click [here](https://joeymoso-stock.wl.r.appspot.com/search/home) to see the web app.
+Click [here](https://stock.yanjyumoso.com) to see the web app.
 
 A webpage to search for stock information, price chart and news based on company ticker.
 
